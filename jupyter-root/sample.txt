@@ -1,0 +1,6 @@
+Name|phone
+John;1234
+Bob;5683
+Alice;8313
+Eric;2663
+Toub;3467
